@@ -2,6 +2,8 @@
 🚨此网站并非作者 @pw-hxss 所创🚨  
 [https://krunker.io/](https://krunker.io/)
 
+![Sample Image For Krunker.io](https://github.com/pw-hxss/colorFlip/blob/main/krunker%20sample.png)
+
 # 使用教程🎥
 🚨此视频并非作者 @pw-hxss 所创🚨  
 [https://www.youtube.com/watch?v=8tyjJD65zws](https://www.youtube.com/watch?v=8tyjJD65zws)
