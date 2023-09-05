@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Invert Colors
+// @name         colorFlip
 // @namespace    https://krunker.io/
 // @version      1.0
 // @description  反转颜色，在视频游戏中更容易识别敌人
